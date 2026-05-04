@@ -1,0 +1,24 @@
+[0.935s] Invoking command in '/home/eiamw001/ros_hw5/hw5_vision': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/eiamw001/ros_hw5/build/hw5_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eiamw001/ros_hw5/install/hw5_vision/lib/python3.12/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/hw5_vision build --build-base /home/eiamw001/ros_hw5/build/hw5_vision/build install --record /home/eiamw001/ros_hw5/build/hw5_vision/install.log --single-version-externally-managed install_data
+[1.215s] running egg_info
+[1.233s] writing ../build/hw5_vision/hw5_vision.egg-info/PKG-INFO
+[1.241s] writing dependency_links to ../build/hw5_vision/hw5_vision.egg-info/dependency_links.txt
+[1.248s] writing entry points to ../build/hw5_vision/hw5_vision.egg-info/entry_points.txt
+[1.254s] writing requirements to ../build/hw5_vision/hw5_vision.egg-info/requires.txt
+[1.258s] writing top-level names to ../build/hw5_vision/hw5_vision.egg-info/top_level.txt
+[1.434s] reading manifest file '../build/hw5_vision/hw5_vision.egg-info/SOURCES.txt'
+[1.438s] writing manifest file '../build/hw5_vision/hw5_vision.egg-info/SOURCES.txt'
+[1.444s] running build
+[1.448s] running build_py
+[1.453s] running install
+[1.453s] running install_lib
+[1.474s] running install_data
+[1.476s] copying launch/hw5_launch.py -> /home/eiamw001/ros_hw5/install/hw5_vision/share/hw5_vision/launch
+[1.486s] running install_egg_info
+[1.504s] removing '/home/eiamw001/ros_hw5/install/hw5_vision/lib/python3.12/site-packages/hw5_vision-0.0.0-py3.12.egg-info' (and everything under it)
+[1.523s] Copying ../build/hw5_vision/hw5_vision.egg-info to /home/eiamw001/ros_hw5/install/hw5_vision/lib/python3.12/site-packages/hw5_vision-0.0.0-py3.12.egg-info
+[1.623s] running install_scripts
+[1.762s] Installing control_node script to /home/eiamw001/ros_hw5/install/hw5_vision/lib/hw5_vision
+[1.770s] Installing perception_node script to /home/eiamw001/ros_hw5/install/hw5_vision/lib/hw5_vision
+[1.778s] Installing video_publisher script to /home/eiamw001/ros_hw5/install/hw5_vision/lib/hw5_vision
+[1.785s] writing list of installed files to '/home/eiamw001/ros_hw5/build/hw5_vision/install.log'
+[1.811s] Invoked command in '/home/eiamw001/ros_hw5/hw5_vision' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/eiamw001/ros_hw5/build/hw5_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eiamw001/ros_hw5/install/hw5_vision/lib/python3.12/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/hw5_vision build --build-base /home/eiamw001/ros_hw5/build/hw5_vision/build install --record /home/eiamw001/ros_hw5/build/hw5_vision/install.log --single-version-externally-managed install_data
