@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: hw5-vision
+Version: 0.0.0
+Summary: Color-based vision controller for HW5
+Maintainer: eiamw001
+Maintainer-email: eiamw001@umn.edu
+License: TODO: License declaration
+Provides-Extra: test

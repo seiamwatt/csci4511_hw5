@@ -1,0 +1,4 @@
+[console_scripts]
+control_node = hw5_vision.control_node:main
+perception_node = hw5_vision.perception_node:main
+video_publisher = hw5_vision.video_publisher:main
