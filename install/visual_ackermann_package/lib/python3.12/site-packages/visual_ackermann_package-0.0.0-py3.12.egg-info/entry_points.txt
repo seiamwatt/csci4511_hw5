@@ -1,0 +1,4 @@
+[console_scripts]
+video_publisher_node = visual_ackermann_package.video_publisher_node:main
+visual_ackermann_node = visual_ackermann_package.visual_ackermann_node:main
+visual_diffdrive_node = visual_ackermann_package.visual_ddrive_node:main
